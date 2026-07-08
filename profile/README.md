@@ -12,6 +12,9 @@ course landing page — it has the full unit index and a
 for learners new to GitHub, Codespaces, or Jupyter notebooks. No installation
 required — everything runs in the browser.
 
+Each unit repo below is a **template** — click **"Use this template"** on a
+unit's page to create your own private copy to work in.
+
 ## Units
 
 - [Unit 1: Python Foundations & Setup](https://github.com/python-fundamentals-course/unit-1-foundations)
